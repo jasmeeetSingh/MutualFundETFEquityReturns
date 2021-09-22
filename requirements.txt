@@ -1,0 +1,8 @@
+pandas
+wordcloud
+matplotlib
+scikit-learn
+seaborn
+plotly
+scipy
+statsmodels
